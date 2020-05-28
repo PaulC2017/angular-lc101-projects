@@ -23,3 +23,7 @@ button {
 .copper {
    background: #b87333 ;
 }
+.buttonLoc {
+   margin-top: 100px;
+   color:red;
+}
